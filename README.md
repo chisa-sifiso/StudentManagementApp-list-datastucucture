@@ -1,4 +1,10 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README - Student Management App</title>
+</head>
 <body>
     <h1>Student Management App</h1>
     <p>
